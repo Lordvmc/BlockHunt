@@ -1,4 +1,4 @@
-name: BlockHunt
+name: HuntLord
 main: BlockHunt\BlockHunt
 api: [1.12.0]
 load: POSTWORLD
